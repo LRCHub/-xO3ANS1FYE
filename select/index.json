@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "朱ノ歌",
+  "base_artist": "Dannie May",
+  "createdAt": "2026-03-29T05:59:06.760637Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朱ノ歌",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_朱ノ歌_Dannie_May.txt"
+    }
+  ]
+}
